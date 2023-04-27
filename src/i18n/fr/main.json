@@ -1,0 +1,11 @@
+{
+  "messages": {
+    "server_port": "serveur exécuté sur le port {port}",
+    "incoming_req": "demande entrante",
+    "sentry": "le service de sentinelle a été initialisé"
+  },
+  "doc": {
+    "title": "Documentation du système",
+    "description": "API"
+  }
+}
